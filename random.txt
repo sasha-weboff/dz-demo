@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x  3 alaricode alaricode 4096 Sep  2 14:08 .
+drwxr-x--- 14 alaricode alaricode 4096 Sep  2 10:37 ..
+-rw-rw-r--  1 alaricode alaricode  246 Sep  2 13:57 default.conf
+-rw-rw-r--  1 alaricode alaricode  327 Sep  2 13:56 Dockerfile
+drwxrwxr-x  7 alaricode alaricode 4096 Sep  2 14:01 .git
+-rw-rw-r--  1 alaricode alaricode  227 Sep  2 13:57 index.html
+-rw-rw-r--  1 alaricode alaricode    0 Sep  2 14:08 random.txt
+-rw-rw-r--  1 alaricode alaricode  227 Sep  2 13:58 result.txt
